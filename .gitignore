@@ -1,1 +1,7 @@
 /.env
+
+/Dataset/train.csv
+
+/Data Tables/merged_train_data.csv
+
+/Data Tables/encoded_train_data.csv
