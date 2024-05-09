@@ -46,7 +46,7 @@ The `Datasets` folder encompasses essential datasets for our analysis:
 Explore detailed analyses in the 'notebook':
 - `01_Exploratory_Data_Analysis: In-depth exploration of sales data.
 - `02_Preprocessing_and_Feature_Engineering: Preprocessing steps and feature engineering.
-- `03_Model_Application: Application of One-Hot Encoding, Linear Regression, Hyperparameter Tuning and Random Forests.
+- `03_Model_Application: Application of One-Hot Encoding, Linear Regression, Hyperparameter Tuning and ARIMA.
 
 ## Visuals
 
